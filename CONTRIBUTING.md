@@ -5,7 +5,7 @@ contributions of all kinds: new and improved lessons, bug reports,
 and small fixes to existing material are all useful.
 
 By contributing, you are agreeing that Data Carpentry may
-redistribute your work under [these licenses](LICENSE.Rmd).
+redistribute your work under [these licenses](LICENSE.html).
 
 
 **Table of Contents**
